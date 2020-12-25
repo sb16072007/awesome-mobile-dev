@@ -140,6 +140,11 @@
     - &nbsp; &nbsp; [Android SDK](https://developer.android.com/studio) (Scroll Down to Command Line Tools Section)
 
 
+### License
+
+ ##### For License check out the [License](./LICENSE) file
+
+
 ### CHANGELOG
 
  ##### For releases check out the [CHANGELOG.md](./CHANGELOG.md) file
