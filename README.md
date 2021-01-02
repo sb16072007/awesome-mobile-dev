@@ -15,7 +15,7 @@
     ###### &nbsp; Learn Languages
     - &nbsp; &nbsp; [Java](https://www.freecodecamp.org/news/java-programming-language-basics/)
     - &nbsp; &nbsp; [Kotlin](https://www.youtube.com/watch?v=AeC4G-H-MQA)
-    - &nbsp; &nbsp; [C++](https://www.youtube.com/watch?v=vLnPwxZdW4Y&list=PLrLJoK-ThWzEmGlXvEQC5fJESqmWJ9FCF)
+    - &nbsp; &nbsp; [C++](https://www.youtube.com/watch?v=mUQZ1qmKlLY)
 
     ###### &nbsp; Requirements 
     - &nbsp; &nbsp; [Android Studio](https://developer.android.com/studio)
