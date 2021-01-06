@@ -1,5 +1,5 @@
 # CHANGE LOG
-#### This file is contains all the history of the changes in the project
+#### This file contains all the records of the changes in the project
 <br>
 
  &nbsp; &nbsp; &nbsp; [06-01-2021] - Changed Course Link for C++
