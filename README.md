@@ -29,7 +29,7 @@
     - &nbsp; &nbsp; [London App Brewery (Youtube)](https://www.youtube.com/watch?v=UNH0bE4zPtY)
     
     ###### &nbsp; Learn Languages
-    - &nbsp; &nbsp; [Swift](https://www.youtube.com/watch?v=comQ1-x2a1Q)
+    - &nbsp; &nbsp; [Swift(Youtube)](https://www.youtube.com/watch?v=comQ1-x2a1Q)
 
     ###### &nbsp; Requirements 
     - &nbsp; &nbsp; [XCode](https://apps.apple.com/in/app/xcode/id497799835?mt=12)
