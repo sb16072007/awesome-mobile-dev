@@ -1,4 +1,4 @@
-![](./img/logo.png)
+![Logo](./img/logo.png)
 
 # A Curated List of awesome Mobile Development Frameworks
 
